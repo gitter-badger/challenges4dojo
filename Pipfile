@@ -1,0 +1,10 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+[dev-packages]
+django-extensions = "*"
+model_mommy = "*"
+
+[packages]
+Django = "==1.10"
