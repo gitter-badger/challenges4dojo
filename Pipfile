@@ -8,3 +8,4 @@ model_mommy = "*"
 
 [packages]
 Django = "==1.10"
+django-watson = "*"

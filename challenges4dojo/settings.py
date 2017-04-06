@@ -41,10 +41,12 @@ DEFAULT_APPS = [
 
 THIRD_PARTY_APPS = [
     'django_extensions',
+    'watson',
 ]
 
 LOCAL_APPS = [
     'challenges',
+    'accounts',
 ]
 
 INSTALLED_APPS = LOCAL_APPS + THIRD_PARTY_APPS + DEFAULT_APPS

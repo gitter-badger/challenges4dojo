@@ -1,0 +1,8 @@
+{
+  "name": "challenges4dojo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hudsonbrendon/challenges4dojo.git",
+  "author": "Hudson Brendon <contato.hudsonbrendon@gmail.com>",
+  "license": "MIT"
+}
